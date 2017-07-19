@@ -1,2 +1,2 @@
 # Make-A-Pede Sensor Examples
-Example circuits for adding different individual sensors to your Make-A-Pede. Sample programs can be found in the [code library repository](https://github.com/Make-A-Pede/Make-A-Pede-Arduino-Library/tree/master/examples)
+Example circuits for adding different individual sensors to your Make-A-Pede. Sample programs can be found in the [code library repository](https://github.com/Make-A-Pede/Make-A-Pede-Arduino-Library/tree/master/examples).
